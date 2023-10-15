@@ -1,0 +1,10 @@
+input
+{
+    height: 40px;
+    width: 40px;
+    border: solid;
+    margin: 10px 0px 0px 0px;
+    font-size: 20;
+    cursor:pointer;
+    box-shadow: 5px 5px  5px black;
+}
